@@ -38,7 +38,7 @@ namespace Assignment2
 
         public int GetWidth()
         {
-            return Length;
+            return Width;
         }
 
         public int SetWidth(int width)
@@ -49,11 +49,13 @@ namespace Assignment2
 
         public int GetPerimeter()
         {
+            Perimeter = (Width + Length) * 2;
             return Perimeter;
         }
 
         public int GetArea()
         {
+            Area = (Width * Length);
             return Area;
         }
     }
