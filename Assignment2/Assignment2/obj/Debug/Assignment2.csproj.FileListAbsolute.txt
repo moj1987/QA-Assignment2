@@ -5,3 +5,6 @@ C:\Users\M\source\repos\8170 QA\AS2\Assignment2\Assignment2\bin\Debug\Assignment
 C:\Users\M\source\repos\8170 QA\AS2\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
 C:\Users\M\source\repos\8170 QA\AS2\Assignment2\Assignment2\obj\Debug\Assignment2.exe
 C:\Users\M\source\repos\8170 QA\AS2\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+C:\Users\M\source\repos\8170 QA\AS2\Assignment2\Assignment2\bin\Debug\nunit.framework.dll
+C:\Users\M\source\repos\8170 QA\AS2\Assignment2\Assignment2\bin\Debug\nunit.framework.xml
+C:\Users\M\source\repos\8170 QA\AS2\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CopyComplete

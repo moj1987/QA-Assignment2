@@ -12,7 +12,6 @@ namespace Assignment2
         private static int length = 0;
         private static int width = 0;
         private static int integerInput = 0;
-        private Rectangle rac;
 
         private static void Main(string[] args)
         {
